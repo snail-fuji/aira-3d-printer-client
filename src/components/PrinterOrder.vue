@@ -28,8 +28,8 @@ export default {
         image: '/static/shaman.png',
         objective: 'QmRp9ymfsLBLVntVtXdT1BAdrMCdfNBfzSeintGvtFiPfN'
       }, {
-        name: 'Phone holder',
-        image: '/static/holder.png',
+        name: 'Gaka-chu',
+        image: '/static/pasha.jpg',
         objective: 'QmQvSdkVkGmkXvow4aBAGq3gdhgFZSYwzpMdu4QU3YetMG'
       }, {
         name: 'Ethereum',
