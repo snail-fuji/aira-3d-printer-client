@@ -13,12 +13,9 @@ npm run dev
 npm run build
 ```
 
-## Change configuration file
-
-> src/config.js
-
 ## Clone and run
 ```bash
 git clone https://github.com/vol4tim/ipfs-api-pubsub-ws
 npm run local
 ```
+If you have a problem with API connection and your IPFS node is up, then just add '127.0.0.1' instead of 'localhost' in ipfs-api-pubsub-ws/src/config.js
